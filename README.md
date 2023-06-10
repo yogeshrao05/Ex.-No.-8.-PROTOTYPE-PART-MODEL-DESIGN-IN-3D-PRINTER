@@ -47,8 +47,8 @@
 ## Output:
 ![image](https://github.com/Pradeeppachiyappan/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118707347/4811c662-2233-4712-8560-ffebd5dadb61)
 
-### Name: Pradeep Raj.P
-### Register Number: 212222240073
+### Name: yogesh rao S D
+### Register Number: 212222110055
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
